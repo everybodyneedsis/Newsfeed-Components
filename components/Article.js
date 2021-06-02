@@ -159,8 +159,6 @@ data.forEach((item) => {
   return articleDiv.appendChild(divData);
 })
 
-console.log(articleMaker(data));
-
 // data.forEach((item) => {
 //   let newArticle = articleMaker(item);
 //   articleDiv.appendChild(newArticle);
